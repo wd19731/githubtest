@@ -6,5 +6,6 @@ public class first {
         System.out.println("hot-fix commit1");
         System.out.println("hot-fix conflict");
         System.out.println("master conflict");
+        System.out.println("提交");
     }
 }
