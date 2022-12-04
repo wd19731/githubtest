@@ -8,5 +8,6 @@ public class first {
         System.out.println("master conflict");
         System.out.println("第二 次提交的数据！");
         System.out.println("这是第一次远程修改！");
+        System.out.println("这是第五次修改提交！");
     }
 }
